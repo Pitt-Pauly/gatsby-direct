@@ -8,13 +8,27 @@ class SiteLinks extends React.Component {
     return (
       <div className="blog-links">
         <ul>
+          {config.siteLinkedInUrl && (
+            <li>
+              <a href={config.siteLinkedInUrl}><i className="fa fa-linkedin-square" /></a>
+            </li>
+          )}
           {config.siteTwitterUrl && (
             <li>
               <a href={config.siteTwitterUrl}>
                 <i className="fa fa-twitter" />
               </a>
             </li>
+          )}         
+          {config.siteEmail && (
+            <li>
+              <a href={`mailto:${config.siteEmailUrl}`}>
+                <i className="fa fa-envelope-o" />
+              </a>
+            </li>
           )}
+        </ul>
+        <ul>
           {config.siteGithubUrl && (
             <li>
               <a href={config.siteGithubUrl}>
@@ -22,32 +36,20 @@ class SiteLinks extends React.Component {
               </a>
             </li>
           )}
-          {config.siteVkUrl && (
+          {config.siteStackOverflow && (
             <li>
-              <a href={config.siteVkUrl}><i className="fa fa-vk" /></a>
-            </li>
-          )}
-        </ul>
-        <ul>
-          {config.siteEmailUrl && (
-            <li>
-              <a href={`mailto:${config.siteEmailUrl}`}>
-                <i className="fa fa-envelope-o" />
-              </a>
-            </li>
-          )}
-          {config.siteTelegramUrl && (
-            <li>
-              <a href={config.siteTelegramUrl}>
-                <i className="fa fa-paper-plane" />
+              <a href={config.siteStackOverflow}>
+                <i className="fa fa-stack-overflow" />
               </a>
             </li>
           )}
         </ul>
         <ul>
-          {config.siteRssUrl && (
+        {config.siteUKC && (
             <li>
-              <a href={config.siteRssUrl}><i className="fa fa-rss" /></a>
+              <a href={config.siteUKC}>
+                <i className="fa fa-picture-o" />
+              </a>
             </li>
           )}
         </ul>

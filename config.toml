@@ -2,14 +2,14 @@ siteTitle = "Pitt Pauly"
 siteDescr = "Software development contractor & rock climber"
 siteAuthor = "Pitt Pauly"
 
-siteTelegramUrl = "#"
+siteLinkedInUrl = "http://linkedin.com/in/pierrepauly/"
 siteTwitterUrl = "https://twitter.com/Pitt_pauly"
+siteEmail = "mailto:contact@pittpauly.com"
+
 siteGithubUrl = "https://github.com/Pitt-Pauly"
-siteEmailUrl = "mailto:contact@pittpauly.com"
-siteSkypeName = "live:contact_54041"
-siteStackOverflow = "http://stackoverflow.com/users/1001286/pitt"
-siteRssUrl = "#"
-siteVkUrl = "#"
+siteStackOverflow = "http://stackoverflow.com/story/pierrepauly"
+
+siteUKC= "https://www.ukclimbing.com/logbook/showlog.html?id=175766"
 
 googleAnalyticsId = ""
 
