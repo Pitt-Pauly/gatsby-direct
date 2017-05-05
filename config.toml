@@ -13,4 +13,4 @@ siteUKC= "https://www.ukclimbing.com/logbook/showlog.html?id=175766"
 
 googleAnalyticsId = ""
 
-linkPrefix = "/gatsby-direct"
+linkPrefix = ""
