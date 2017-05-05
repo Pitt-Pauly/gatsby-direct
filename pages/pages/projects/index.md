@@ -20,5 +20,5 @@ ___
 
 One of my favorite projects at Altitude Sports was to build a web app which communicated with their Shopify e-commerce site. I could implement the app using Docker containers which allowed us to standardize the apps environment, meaning that this app would run the same way on a developer's laptop than on a production server.
 
-As I build the web app from ground up, I was responsible to design, code, test, and deploy the whole app while making it be open to connections from an internal app and also be able to contact the external Shopify API. I managed to effectively leverage design patterns to design the abstract class hierarchy, which helped me later write automated tests which could be run during continuous integration and deployment step later in the development cycle.
+I build web apps from the ground up, so I am responsible to design, code, test, and deploy the whole app while making it be open to connections from an internal app and also be able to contact the external Shopify API. I managed to effectively leverage design patterns to design the abstract class hierarchy, which helped me later write automated tests which could be run during continuous integration and deployment step later in the development cycle.
 

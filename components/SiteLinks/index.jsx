@@ -22,7 +22,7 @@ class SiteLinks extends React.Component {
           )}         
           {config.siteEmail && (
             <li>
-              <a href={`mailto:${config.siteEmailUrl}`}>
+              <a href={`mailto:${config.siteEmail}`}>
                 <i className="fa fa-envelope-o" />
               </a>
             </li>
