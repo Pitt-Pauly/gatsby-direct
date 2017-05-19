@@ -4,7 +4,7 @@ path: "/"
 ---
 <div style="text-align: center">
 
-# Web developer & Software engineer
+# Web Developer & Software Engineer
 ### Full stack Developer focusing on Quality Assurance, Back-end, and DevOps processes
 
 >“I build the foundation for any website as well as reliable, cloud based web services and applications”
