@@ -29,6 +29,13 @@ class SiteLinks extends React.Component {
           )}
         </ul>
         <ul>
+         {config.siteBlog && (
+            <li>
+              <a href={config.siteBlog}>
+                <i className="fa fa-medium" />
+              </a>
+            </li>
+          )}
           {config.siteGithubUrl && (
             <li>
               <a href={config.siteGithubUrl}>
