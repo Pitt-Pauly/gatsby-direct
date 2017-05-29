@@ -4,6 +4,8 @@ layout: page
 path: "/about"
 ---
 
+### Oh Hello Ollie!
+
 What draws me into working as a software developer is the exchange of complex ideas and their real-world implementation and active use. Similar to mathematics, programming is the expression of logic applied to the problems of digital representation of our environment. I find it very satisfying to build an application that manages to communicate with other systems. In a way it embodies the connection of the ideas embedded in their designs. So as systems communicate with systems, they are in a way networks of ideas cooperating with each other.
 
 My educational background is in Artificial Intelligence and Computer Science. I earned a first class Bachelor of Science with Honours degree from the University of Edinburgh, Scotland in 2012. Since then I have both worked as a freelancer as well as in different companies.
