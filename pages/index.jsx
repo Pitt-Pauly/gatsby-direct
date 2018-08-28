@@ -40,9 +40,11 @@ class SiteIndex extends React.Component {
         <Helmet title={config.siteTitle} />
         <SiteSidebar {...this.props} />
         <div className="content">
-          <div className="main">
-            <div className="main-inner">
-              {pageLinks}
+          <div className="Index-content">
+            <div className="main">
+              <div className="main-inner">
+                {pageLinks}
+              </div>
             </div>
           </div>
         </div>

@@ -12,7 +12,8 @@
     "copy": "npm run copy:files",
     "lint": "./node_modules/.bin/eslint --cache --ext .js,.jsx --ignore-pattern public .",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gatsby build --prefix-links && gh-pages -d public"
+    "deploy": "gatsby build --prefix-links && gh-pages -d public",
+    "deploy:master": "gatsby build --prefix-links && cp public docs && git add docs/* && git commit -m 'deploying to master branch' && git push origin master"
   },
   "keywords": [
     "gatsby",
