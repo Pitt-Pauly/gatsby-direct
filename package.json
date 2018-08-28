@@ -8,11 +8,12 @@
     "build": "gatsby build",
     "clean:public": "rm -rf public",
     "clean": "npm run clean:public",
+    "copy:CNAME": "cp ./CNAME ./public/CNAME",
     "copy:files": "find ./pages -maxdepth 1 -type f -regextype posix-extended -regex '.+\\.(pdf|txt|png|jpg|jpeg|gif)$' -exec cp -v {} ./public ';'",
-    "copy": "npm run copy:files",
+    "copy": "npm run copy:files && npm run copy:CNAME",
     "lint": "./node_modules/.bin/eslint --cache --ext .js,.jsx --ignore-pattern public .",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gatsby build --prefix-links && gh-pages -d public",
+    "deploy": "gatsby build --prefix-links && npm run copy && gh-pages -d public",
     "deploy:master": "gatsby build --prefix-links && cp public docs && git add docs/* && git commit -m 'deploying to master branch' && git push origin master"
   },
   "keywords": [
