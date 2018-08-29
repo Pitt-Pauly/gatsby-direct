@@ -4,6 +4,8 @@ layout: page
 path: "/about"
 ---
 
+# About me
+
 ## My Motivation
 
 The internet was imagined as a global network of information shared and enriched by millions of people.
@@ -19,7 +21,7 @@ I support grassroot projects, NGOs, cooperatives, artists, Open-source projects,
 Don't hesitate to contact me to get to know more!
 ___
 
-## References:
+## References
 
 > "I worked with Pitt at FriendNGo, where he was the CTO and Backend developer, and I can say it was one of the best coworkers I could ever wish for.
 He's an excellent team player, always thinking about 'us' before 'I' and is highly skilled on the technical side. He's a easy fit for any team that wants to succeed together, easily manages to position himself in situations of conflict and find a solution that works for both sides with the vision of the best interest of the project in mind.  

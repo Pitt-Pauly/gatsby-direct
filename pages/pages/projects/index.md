@@ -4,6 +4,8 @@ layout: page
 path: "/projects"
 ---
 
+# Projects
+
 ## To-Be-Released Project
 
 For the last few months I have been helping a startup build their Minimum Viable Product. The startup has not launched yet so I cannot give specific details about it yet. However it is a very exciting project and definitely one of the bigger projects I had the opportunity to work on as an independent web developer. 

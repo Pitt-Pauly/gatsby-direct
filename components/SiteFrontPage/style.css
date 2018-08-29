@@ -5,11 +5,20 @@
 	font-size: responsive 20px 36px;
 	margin-top: 0;
 }
-.blog-page p {
+.blog-page p, .blog-page ul li {
 	font-size: 16px;
 	line-height: 26px;
 	margin-bottom: 26px;
 }
+
+.blog-page ul li {
+	margin-bottom: 10px;
+}
+
+.front-page {
+	text-align: center;
+}
+
 @media (max-width:900px) {
 	.blog-single .text, .blog-single .footer {
 		padding: 0 15px;

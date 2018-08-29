@@ -1,8 +1,9 @@
 ---
-title: Independent Web Developer
+title: Indie Web Developer 
 layout: page
 path: "/"
 ---
+<div style="text-align: center;">
 
 ### Full stack Web Developer focusing on Quality and Reliability
 
@@ -23,3 +24,4 @@ Python - Django  •  ES6 (JavaScript) - React.js<br />
 Nginx  •  Node.js  •  Databases - PostgreSQL / Redis / MySQL<br />
 Containization through Docker<br />
 Linux – Ubuntu / CentOS / Alpine  •  Bash script<br />
+</div>

@@ -2,7 +2,7 @@ import React from 'react';
 import SiteSidebar from '../SiteSidebar';
 import './style.css';
 
-class SitePage extends React.Component {
+class SiteFrontPage extends React.Component {
   render() {
     const { route } = this.props;
     const post = route.page.data;
@@ -13,9 +13,11 @@ class SitePage extends React.Component {
         <div className="content">
           <div className="main">
             <div className="main-inner">
-              <div className="blog-page">
-                <div className="text">
-                  <div dangerouslySetInnerHTML={{ __html: post.body }} />
+              <div className="front-page">
+                <div className="blog-page">
+                  <div className="text">
+                    <div dangerouslySetInnerHTML={{ __html: post.body }} />
+                  </div>
                 </div>
               </div>
             </div>
@@ -26,8 +28,8 @@ class SitePage extends React.Component {
   }
 }
 
-SitePage.propTypes = {
+SiteFrontPage.propTypes = {
   route: React.PropTypes.object.isRequired,
 };
 
-export default SitePage;
+export default SiteFrontPage;

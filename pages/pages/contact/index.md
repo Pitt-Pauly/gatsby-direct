@@ -4,6 +4,8 @@ layout: page
 path: "/contact"
 ---
 
+# Contact me
+
 Interested in working together or have a question?
 
 The best way to reach me is via email on [contact@pittpauly.com][email]. 
