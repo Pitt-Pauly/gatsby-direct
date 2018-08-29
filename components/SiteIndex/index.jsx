@@ -11,11 +11,13 @@ class SitePage extends React.Component {
       <div>
         <SiteSidebar {...this.props} />
         <div className="content">
-          <div className="main">
-            <div className="main-inner">
-              <div className="blog-page">
-                <div className="text">
-                  <div dangerouslySetInnerHTML={{ __html: post.body }} />
+          <div className="Index-content">
+            <div className="main">
+              <div className="main-inner">
+                <div className="blog-page">
+                  <div className="text">
+                    <div dangerouslySetInnerHTML={{ __html: post.body }} />
+                  </div>
                 </div>
               </div>
             </div>
