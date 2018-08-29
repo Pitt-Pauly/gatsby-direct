@@ -1,5 +1,5 @@
 ---
-title: Independent Web Developer & Consultant
+title: Independent Web Developer
 layout: page
 path: "/"
 ---
