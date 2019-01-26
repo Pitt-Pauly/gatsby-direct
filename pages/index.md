@@ -5,9 +5,9 @@ path: "/"
 ---
 <div style="text-align: center;">
 
-### Full stack Web Developer focusing on Quality and Reliability
+### Agile Project Manager and Web Developer
 
->“I build the foundation for any website as well as reliable, cloud based web services and applications”
+>with a focus on building service oriented web apps
 
 #### - I build -
  Websites  •  Web Apps  •  Web Services  •  REST APIs<br />
