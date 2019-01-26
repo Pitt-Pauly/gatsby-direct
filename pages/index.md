@@ -7,7 +7,7 @@ path: "/"
 
 ### Agile Project Manager and Web Developer
 
->“with a focus on building service oriented web apps”
+>with a focus on building service oriented web apps
 
 #### - I build -
  Websites  •  Web Apps  •  Web Services  •  REST APIs<br />
