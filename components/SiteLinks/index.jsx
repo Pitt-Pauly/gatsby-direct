@@ -2,6 +2,7 @@ import React from 'react';
 import { config } from 'config';
 import './style.css';
 import '../../static/fonts/fontawesome/style.css';
+import '../../static/css/fork-awesome.min.css';
 
 class SiteLinks extends React.Component {
   render() {
