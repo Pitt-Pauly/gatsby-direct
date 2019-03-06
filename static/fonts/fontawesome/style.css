@@ -785,6 +785,10 @@
   content: "\f092";
 }
 
+.fa-keybase:before {
+  content: "\f2f4";
+}
+
 .fa-upload:before {
   content: "\f093";
 }
