@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ppitt
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pittpauly.com
+  * I am ppitt (https://keybase.io/ppitt) on keybase.
+  * I have a public key ASBNmjnDZBWmwbM98hU52jpOyFztQOy-Y0_mlUkveW8iygo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204d9a39c36415a6c1b33df21539da3a4ec85ced40ecbe634fe695492f796f22ca0a",
+      "host": "keybase.io",
+      "kid": "01204d9a39c36415a6c1b33df21539da3a4ec85ced40ecbe634fe695492f796f22ca0a",
+      "uid": "0ba3472221919930c08e42eae4f45b19",
+      "username": "ppitt"
+    },
+    "merkle_root": {
+      "ctime": 1551879768,
+      "hash": "6ed3db83afbe90c20dffcb06b0b308ccee26c8cf1f24f899dd9c47ff183dee029045eb2b27141a30d34f2bfc0ab1d548f4efdfdcf457f8e577054426e08e5bd6",
+      "hash_meta": "b0cf6ebbae5e86e31278f926ddcc71ecc0bc499ac26a86297df724d1d0cdf625",
+      "seqno": 4887371
+    },
+    "service": {
+      "entropy": "mVc6ODzAZv3KlcN8DdIUMGeq",
+      "hostname": "pittpauly.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.0.0"
+  },
+  "ctime": 1551879801,
+  "expire_in": 504576000,
+  "prev": "1dc28cf08e95070a3d569f3ba6e39abbef484506544d4925a822be92dff30c76",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgTZo5w2QVpsGzPfIVOdo6Tshc7UDsvmNP5pVJL3lvIsoKp3BheWxvYWTESpcCB8QgHcKM8I6VBwo9Vp87puOau+9IRQZUTUklqCK+kt/zDHbEIBDOHxnVRcJ78s5IiqmQrhgQ2RuoiH/LzOx4pvqa8XbDAgHCo3NpZ8RA0dwjsPsuVuLB3yPen7KGAF4AjpZ/E8bjjPMW8oIdluXJv0t4tWZRRg3oS+YxO81D1QD0bEvSgccuyWBFWVVSDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAXXWGT/n+Y3J7oPv2DzAthb3Lpuwi/B+bEgdfxrbUsBo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ppitt
+
+==================================================================
