@@ -1,11 +1,11 @@
 ---
-title: Indie Web Developer 
+title: Web Developer 
 layout: page
 path: "/"
 ---
 <div style="text-align: center;">
 
-### Agile Project Manager and Web Developer
+### Web Developer and Agile Project Manager
 
 >with a focus on building service oriented web apps
 
@@ -22,6 +22,6 @@ Operations support  •  DevOps<br />
 #### - Technologies -
 Python - Django  •  ES6 (JavaScript) - React.js<br />
 Nginx  •  Node.js  •  Databases - PostgreSQL / Redis / MySQL<br />
-Containization through Docker<br />
+Containerization through Docker<br />
 Linux – Ubuntu / CentOS / Alpine  •  Bash script<br />
 </div>

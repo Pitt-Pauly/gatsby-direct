@@ -12,10 +12,13 @@ class MarkdownWrapper extends React.Component {
     const layout = post.layout;
     let template;
 
-    if (layout !== 'page') {
-      template = <SitePost {...this.props} />;
-    } else {
-      template = <SitePage {...this.props} />;
+    switch (layout) {
+      case 'page':
+        template = <SitePage {...this.props} />;
+        break;
+      default:
+        template = <SitePost {...this.props} />;
+        break;
     }
 
     return (
